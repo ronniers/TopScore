@@ -109,7 +109,6 @@ GET /score
 * **start date** a String representing the start of the filter range. The expected format is _dd MMM yyyy HH:mm:ss_.
 * **end date** a String representing the end of the filter range. The expected format is _dd MMM yyyy HH:mm:ss_.
 
-All three parameters:
 ```json
 {
   "player": ["player1","player2"],
